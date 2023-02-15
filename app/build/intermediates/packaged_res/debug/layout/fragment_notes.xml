@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".notes.NotesFragment">
+
+    <com.google.android.material.appbar.MaterialToolbar
+        android:id="@+id/toolbar"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:background="@color/green_300"
+        android:theme="@style/ToolBarStyle"
+        app:title="Измерения"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/body_mass_index"
+        app:layout_constraintTop_toBottomOf="@id/toolbar"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_margin="@dimen/medium_margin"
+        style="@style/TextBaseStyle"
+        android:text="ИМТ: 12" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/bmi_Date"
+        app:layout_constraintTop_toBottomOf="@id/body_mass_index"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_margin="@dimen/medium_margin"
+        android:maxLines="2"
+        style="@style/TextBaseStyle"
+        android:text="Дата измерения: 12.03.2003" />
+
+    <View
+        android:id="@+id/separator1"
+        android:layout_width="match_parent"
+        style="@style/Separator"
+        android:layout_marginHorizontal="@dimen/very_very_small_margin"
+        app:layout_constraintTop_toBottomOf="@id/bmi_Date"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/cpfc"
+        app:layout_constraintTop_toBottomOf="@id/separator1"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_margin="@dimen/medium_margin"
+        style="@style/TextBaseStyle"
+        android:text="КБЖУ: 1600" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/cpfc_date"
+        app:layout_constraintTop_toBottomOf="@id/cpfc"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_margin="@dimen/medium_margin"
+        android:maxLines="2"
+        style="@style/TextBaseStyle"
+        android:text="Дата измерения: 21.01.2009" />
+
+    <View
+        android:id="@+id/separator2"
+        android:layout_width="match_parent"
+        style="@style/Separator"
+        android:layout_marginHorizontal="@dimen/very_very_small_margin"
+        app:layout_constraintTop_toBottomOf="@id/cpfc_date"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/water_balance"
+        app:layout_constraintTop_toBottomOf="@id/separator2"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_margin="@dimen/medium_margin"
+        style="@style/TextBaseStyle"
+        android:text="Выпито воды: 1000 из 3500мл" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/water_balance_date"
+        app:layout_constraintTop_toBottomOf="@id/water_balance"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_margin="@dimen/medium_margin"
+        android:maxLines="2"
+        style="@style/TextBaseStyle"
+        android:text="Дата измерения: 11.01.2009" />
+
+    <View
+        android:id="@+id/separator3"
+        android:layout_width="match_parent"
+        style="@style/Separator"
+        android:layout_marginHorizontal="@dimen/very_very_small_margin"
+        app:layout_constraintTop_toBottomOf="@id/water_balance_date"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

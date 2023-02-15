@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.healthylifestyle.app-mergeDebugResources-4:/values-h480dp-land-v13/values-h480dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Дарья\\.gradle\\caches\\transforms-3\\6725ddb7e10af4e19c7d1f6b82381dc6\\transformed\\material-1.7.0\\res\\values-h480dp-land-v13\\values-h480dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,170,226,293,358,413,478,547",
+                        "endColumns": "58,55,55,66,64,54,64,68,68",
+                        "endOffsets": "109,165,221,288,353,408,473,542,611"
+                    }
+                }
+            ]
+        }
+    ]
+}

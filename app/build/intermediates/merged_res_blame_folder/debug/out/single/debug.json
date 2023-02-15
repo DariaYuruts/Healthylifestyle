@@ -1,0 +1,350 @@
+[
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\drawable-mdpi_settings.png.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\drawable-mdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\layout_activity_dialog7.xml.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\layout\\activity_dialog7.xml"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\drawable-anydpi_settings.xml.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\drawable-anydpi\\settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\layout_register.xml.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\layout\\register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\layout_activity_program.xml.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\layout\\activity_program.xml"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\layout_fragment_1.xml.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\layout\\fragment_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\layout_exercise_item.xml.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\layout\\exercise_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\drawable-xhdpi_lk.png.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\drawable-xhdpi\\lk.png"
+    },
+    {
+        "merged": "com.example.healthylifestyle.app-merged_res-6:/layout_activity_program.xml.flat",
+        "source": "com.example.healthylifestyle.app-main-8:/layout/activity_program.xml"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\layout_activity_nutrition_and_sports.xml.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\layout\\activity_nutrition_and_sports.xml"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\layout_activity_dialog4.xml.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\layout\\activity_dialog4.xml"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\layout_activity_nutrition_dialog2.xml.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\layout\\activity_nutrition_dialog2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\drawable-xhdpi_notes.png.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\drawable-xhdpi\\notes.png"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\drawable-xhdpi_settings.png.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\drawable-xhdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\layout_activity_dialog10.xml.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\layout\\activity_dialog10.xml"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\drawable_exercises.png.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\drawable\\exercises.png"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\layout_fragment_notes.xml.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\layout\\fragment_notes.xml"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\drawable_round_back.xml.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\drawable\\round_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\drawable_buttonstart.xml.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\drawable\\buttonstart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\layout_activity_dialog8.xml.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\layout\\activity_dialog8.xml"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\drawable_icons.png.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\drawable\\icons.png"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\drawable-mdpi_lk.png.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\drawable-mdpi\\lk.png"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\drawable_ic_baseline_more_vert_24.xml.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\drawable\\ic_baseline_more_vert_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\menu_bottommenu.xml.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\menu\\bottommenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\layout_fragment_2.xml.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\layout\\fragment_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\layout_fragment_settings.xml.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\layout_activity_wbalance.xml.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\layout\\activity_wbalance.xml"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\layout_activity_calc.xml.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\layout\\activity_calc.xml"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\drawable-xxhdpi_notes.png.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\drawable-xxhdpi\\notes.png"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\drawable-hdpi_settings.png.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\drawable-hdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\layout_activity_nutrition_dialog1.xml.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\layout\\activity_nutrition_dialog1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\drawable-xxhdpi_settings.png.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\drawable-xxhdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\drawable_scales.png.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\drawable\\scales.png"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\layout_signstart.xml.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\layout\\signstart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\drawable_food.png.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\drawable\\food.png"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\menu_settings_menu.xml.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\menu\\settings_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\drawable_calc.png.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\drawable\\calc.png"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\layout_activity_dialog1.xml.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\layout\\activity_dialog1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\drawable_ic_baseline_exit_to_app_24.xml.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\drawable\\ic_baseline_exit_to_app_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\layout_fragment_lk.xml.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\layout\\fragment_lk.xml"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\drawable-anydpi_notes.xml.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\drawable-anydpi\\notes.xml"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\layout_item_menu.xml.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\layout\\item_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\drawable_round_back_2.xml.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\drawable\\round_back_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\drawable-xxhdpi_lk.png.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\drawable-xxhdpi\\lk.png"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\layout_activity_dialog9.xml.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\layout\\activity_dialog9.xml"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\layout_activity_nutrition.xml.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\layout\\activity_nutrition.xml"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\layout_activity_sports.xml.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\layout\\activity_sports.xml"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\layout_activity_dialog5.xml.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\layout\\activity_dialog5.xml"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\drawable_balance.png.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\drawable\\balance.png"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\drawable-anydpi_lk.xml.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\drawable-anydpi\\lk.xml"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\layout_menu_type.xml.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\layout\\menu_type.xml"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\layout_activity_second.xml.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\layout\\activity_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\drawable_icon.jpg.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\drawable\\icon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\layout_activity_dialog2.xml.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\layout\\activity_dialog2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\drawable_ic_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\drawable\\ic_baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\layout_activity_dialog6.xml.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\layout\\activity_dialog6.xml"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\layout_spinner_item_layout.xml.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\layout\\spinner_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\drawable_person.png.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\drawable\\person.png"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\layout_activity_recommend.xml.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\layout\\activity_recommend.xml"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\layout_activity_nutrition_example.xml.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\layout\\activity_nutrition_example.xml"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\layout_activity_dialog3.xml.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\layout\\activity_dialog3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\drawable-hdpi_lk.png.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\drawable-hdpi\\lk.png"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\drawable_recomend.png.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\drawable\\recomend.png"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\drawable-hdpi_notes.png.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\drawable-hdpi\\notes.png"
+    },
+    {
+        "merged": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-merged_res-6:\\drawable-mdpi_notes.png.flat",
+        "source": "C:\\Users\\Дарья\\.gradle\\daemon\\7.5\\com.example.healthylifestyle.app-main-8:\\drawable-mdpi\\notes.png"
+    }
+]

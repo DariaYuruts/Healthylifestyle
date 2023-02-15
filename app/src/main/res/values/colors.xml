@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="green_700">#9DDD86</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="fon">#34eb7a</color>
+    <color name="btnfon">#FFFFFFFF</color>
+    <color name="effect">#1b65de</color>
+    <color name="texthint">#878686</color>
+
+    <color name="green_dark">#4CAF50</color>
+
+    <color name="gray">#706C6C</color>
+    <color name="gray_dark">#555353</color>
+    <color name="gray_light">#9F9C9C</color>
+    <color name="gray_very_light">#F1F0F0</color>
+    <color name="gray_main_color">#736D6D</color>
+    <color name="green_light">#9DDD86</color>
+    <color name="green_600">#43A047</color>
+    <color name="green_300">#81C784</color>
+    <color name="yellow_300">#FFB74D</color>
+</resources>

@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="active">
+        <item>Малоподвижный</item>
+        <item>Тренировки 1–3 раза в неделю</item>
+        <item>Тренировки 3–5 раза в неделю</item>
+        <item>Высокие нагрузки каждый день</item>
+        <item>Экстремальные нагрузки</item>
+    </string-array>
+    <string-array name="activity_water_balance">
+        <item>Легкие физические нагрузки</item>
+        <item>Средние физические нагрузки</item>
+        <item>Высокие физические нагрузки</item>
+    </string-array>
+    <string-array name="ambition">
+        <item>Сбросить вес</item>
+        <item>Набрать мышечную массу</item>
+        <item>Поддерживать вес</item>
+    </string-array>
+    <string-array name="menu_type">
+        <item>Мужчина</item>
+        <item>Женщина</item>
+        <item>Ребёнок</item>
+    </string-array>
+    <string-array name="pol">
+        <item>Мужской</item>
+        <item>Женский</item>
+    </string-array>
+    <string-array name="sexes">
+        <item>Мужской</item>
+        <item>Женский</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="btnfon">#FFFFFFFF</color>
+    <color name="effect">#1b65de</color>
+    <color name="fon">#34eb7a</color>
+    <color name="gray">#706C6C</color>
+    <color name="gray_dark">#555353</color>
+    <color name="gray_light">#9F9C9C</color>
+    <color name="gray_main_color">#736D6D</color>
+    <color name="gray_very_light">#F1F0F0</color>
+    <color name="green_300">#81C784</color>
+    <color name="green_600">#43A047</color>
+    <color name="green_700">#9DDD86</color>
+    <color name="green_dark">#4CAF50</color>
+    <color name="green_light">#9DDD86</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="texthint">#878686</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow_300">#FFB74D</color>
+    <dimen name="big_margin">24dp</dimen>
+    <dimen name="big_text">28sp</dimen>
+    <dimen name="large_margin">36dp</dimen>
+    <dimen name="large_text">36sp</dimen>
+    <dimen name="medium_margin">16dp</dimen>
+    <dimen name="medium_smaller_text">20sp</dimen>
+    <dimen name="medium_text">24sp</dimen>
+    <dimen name="small_margin">12dp</dimen>
+    <dimen name="small_text">16sp</dimen>
+    <dimen name="very_large_margin">48dp</dimen>
+    <dimen name="very_large_text">48sp</dimen>
+    <dimen name="very_small_margin">8dp</dimen>
+    <dimen name="very_small_text">12sp</dimen>
+    <dimen name="very_very_large_margin">64dp</dimen>
+    <dimen name="very_very_large_text">56sp</dimen>
+    <dimen name="very_very_small_margin">4dp</dimen>
+    <string name="activity">Тип \nактивности:</string>
+    <string name="age">Возраст:</string>
+    <string name="app_name">Healthy lifestyle</string>
+    <string name="badhabits">отказ от вредных привычек</string>
+    <string name="btn1">Здоровое питание\n\nЛюбая деятельность человека зависит от веществ и микроэлементов, поступающих в его организм вместе с пищей. Поэтому следует отказаться от фаст-фуда и другой вредной еды, переключив свое внимание на фрукты, овощи, злаки. Организуйте правильный режим питания.</string>
+    <string name="btn10">Духовное самочувствие\n\nОптимистичное настроение зачастую является главным компонентом успешной деятельности и любых начинаний. Важно уметь правильно определять свои жизненные цели и грамотно расставлять приоритеты.</string>
+    <string name="btn2">Занятия физкультурой\n\nОбязательно делайте зарядку по утрам! Она придаст энергии и хорошего настроения на весь день. Выберите для себя подходящий вид спорта. Физическая активность незаменима при здоровом образе жизни. Занятия спортом сделают ваше тело стройным и красивым, а также укрепят иммунитет.</string>
+    <string name="btn3">Хороший сон\n\nЕжедневно человек должен спать около 8 часов, причем ложиться лучше до полуночи — это наиболее благоприятное время для сна. Хорошо проветривайте комнату перед сном. Важной особенностью является комфорт и удобство спального места. Нельзя наедаться на ночь, помните, что последний прием пищи обязан быть не позднее, чем за 3 часа до сна.</string>
+    <string name="btn4">Режим дня\n\nРаспоряжайтесь своим временем грамотно. Хорошо организованный режим дня – правильное чередование работы и отдыха. Составив режим, вы будете больше успевать сделать за день, избегая переутомления.</string>
+    <string name="btn5">Отказ от вредных привычек\n\nАлкоголь, наркотики, курение – всё это наносит непоправимый вред организму. Эти вредные привычки влекут за собой болезни, мешают человеку развиваться как в трудовой, так и в творческой деятельности, вследствие чего, делают его социально неблагополучным и несчастным.</string>
+    <string name="btn6">Устойчивость к стрессу\n\nСтарайтесь спокойней относиться к возникшим проблемам и неудачам. Запомните, что негативные эмоции приводят к болезням. Справиться со стрессами помогут занятия любимым делом, спорт или новые увлечения. Старайтесь контролировать свои эмоции и относитесь ко всему с добром и позитивом.</string>
+    <string name="btn7">Закаливание организма\n\nЗакаливание – важная особенность здорового образа жизни, это профилактика простудных заболеваний и развитие устойчивости организма к негативным условиям среды. Известно, что закаленный человек в 8 раз реже простужается, чем незакаленный. Закаливаться можно снегом, солнцем, воздухом или водой, главное делать это с умом и в меру.</string>
+    <string name="btn8">Личная гигиена\n\nКак говорится, чистота – залог здоровья, поэтому ежедневно приводите свое тело и одежду в порядок. Несоблюдение личной гигиены может быть поводом развития многих опасных болезней.</string>
+    <string name="btn9">Интеллектуальное развитие\n\nУзнавая что-то новое, мы тренируем головной мозг, а значит, развиваем умственные способности, которые можно применить в различных жизненных ситуациях.</string>
+    <string name="buttonregistre">Зарегистрироваться</string>
+    <string name="buttonstart">Войти</string>
+    <string name="calculate">Рассчитать</string>
+    <string name="calculator">Калькуляторы</string>
+    <string name="cm">см</string>
+    <string name="default_web_client_id" translatable="false">492350089131-i5qnqfu3g5mv5hv4p5bnkp6otam56dee.apps.googleusercontent.com</string>
+    <string name="eating">здоровое питание</string>
+    <string name="emailid">Email</string>
+    <string name="firebase_database_url" translatable="false">https://healthylifestyle-51b24-default-rtdb.firebaseio.com</string>
+    <string name="food">Информация о правильном питании и рецепты</string>
+    <string name="gcm_defaultSenderId" translatable="false">492350089131</string>
+    <string name="gender">Пол:</string>
+    <string name="gooddream">хороший сон</string>
+    <string name="google_api_key" translatable="false">AIzaSyDnP2EnQlHLhikBcOtRQjazwQazZ_77mcs</string>
+    <string name="google_app_id" translatable="false">1:492350089131:android:7928c3dc0fa789c27a14ee</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDnP2EnQlHLhikBcOtRQjazwQazZ_77mcs</string>
+    <string name="google_storage_bucket" translatable="false">healthylifestyle-51b24.appspot.com</string>
+    <string name="hardening">закаливание организма</string>
+    <string name="heading">Healthy lifestyle</string>
+    <string name="healthy_nutrition_necessity">Необходимость правильного питания</string>
+    <string name="height">Рост</string>
+    <string name="height2">Рост:</string>
+    <string name="imt">ИМТ</string>
+    <string name="intellectualdevelopment">интеллектуальное развитие</string>
+    <string name="kbzy">КБЖУ</string>
+    <string name="kg">кг</string>
+    <string name="man">Мужчина</string>
+    <string name="menu_example">Примеры усредненного рациона питания на каждый день</string>
+    <string name="menu_guide">Как правильно составить рацион ПП</string>
+    <string name="modeoftheday">режим дня</string>
+    <string name="name">Имя</string>
+    <string name="name2">Фамилия</string>
+    <string name="nutrition">Спорт и питание</string>
+    <string name="nutrition_how_to_build_menu">Чтобы составить рацион правильного питания, нужно учитывать все свои особенности. Калорийность – это то количество энергии, которое образуется при расщеплении и переработке пищи. Она колеблется от 1800 до 3000 кКал в сутки, в зависимости от: возраста, образа жизни, скорости метаболизма. Если вы ведете активный образ жизни и много занимаетесь спортом, то ваше меню будет более калорийным за счет белковой пищи, чем у среднестатистического человека – для активного роста мышц и поддержания быстрого метаболизма. При сидячем образе жизни, напротив, нужно уменьшать долю углеводов и вредных жиров, чтобы не набрать лишний вес, так как потребляемые лишние калории не сжигаются.</string>
+    <string name="nutrition_text_necessity">Основной объем потребляемых веществ составляют белки, жиры, углеводы, а также вода, из которой организм состоит на 2/3. Потеря всего 10% жидкости может привести к летальному исходу. Норма жидкости очень различна и варьирует от 1,5 до 3 литров в день. Немалую часть ее люди получают из обычной пищи: супы, чай, сочные фрукты. В жару, во время физических нагрузок, болезней, а также крупным людям, суммарно жидкости нужно потреблять не менее 2 литров. Стоит помнить, что избыточное количество воды оказывает повышенную нагрузку на почки, так что пить больше, чем необходимо, не следует.</string>
+    <string name="password">Пароль</string>
+    <string name="personalhygiene">личная гигиена</string>
+    <string name="physicalclasses">занятия физкультурой</string>
+    <string name="project_id" translatable="false">healthylifestyle-51b24</string>
+    <string name="purpose">Цель:</string>
+    <string name="recommendations">Советы ЗОЖ</string>
+    <string name="reg">Вход в учетную запись</string>
+    <string name="remember">Запомнить</string>
+    <string name="result">Результат</string>
+    <string name="spiritualwellbeing">духовное самочувствие</string>
+    <string name="sport">Физические упражнения</string>
+    <string name="sport_part1">Этап 1: ходьба на месте</string>
+    <string name="sport_part2">Этап 2: суставная гимнастика</string>
+    <string name="sport_part3">Этап 3: динамическая растяжка мышц</string>
+    <string name="sport_part4">Этап 4: кардио-разогрев</string>
+    <string name="sport_part5">Этап 5: восстановление дыхания</string>
+    <string name="stress">устойчивость к стрессу</string>
+    <string name="water_balance">Водный баланс</string>
+    <string name="weight">Вес</string>
+    <string name="weight2">Вес:</string>
+    <string name="woman">Женщина</string>
+    <string name="x">Х</string>
+    <style name="AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="Base.Widget.AppCompat.Spinner.Custom" parent="Base.Widget.AppCompat.Spinner">
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="ClickableContainer">
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:background">?attr/selectableItemBackground</item>
+        <item name="android:padding">12dp</item>
+    </style>
+    <style name="InfoTextViewStyle">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="layout_constraintStart_toStartOf">parent</item>
+        <item name="layout_constraintEnd_toEndOf">parent</item>
+        <item name="android:textSize">@dimen/small_text</item>
+        <item name="android:layout_marginTop">4dp</item>
+        <item name="android:layout_marginBottom">4dp</item>
+        <item name="android:layout_marginStart">12dp</item>
+    </style>
+    <style name="PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+    <style name="ProfileTextView">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="layout_constraintStart_toStartOf">parent</item>
+        <item name="layout_constraintEnd_toEndOf">parent</item>
+        <item name="android:textSize">@dimen/small_text</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="Separator">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">@color/black</item>
+    </style>
+    <style name="SmallProfileTextView">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="layout_constraintStart_toStartOf">parent</item>
+        <item name="layout_constraintEnd_toEndOf">parent</item>
+        <item name="android:textSize">@dimen/very_small_text</item>
+    </style>
+    <style name="TextBaseStyle">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textSize">@dimen/medium_text</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="Theme.Healthylifestyle" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/green_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+        <item name="android:textColorPrimary">#000000</item>
+        <item name="android:textColorTertiary">#4D000000</item>
+        <item name="android:colorBackground">#F7F6F2</item>
+        <item name="colorSurface">#FFFFFF</item>
+    </style>
+    <style name="Theme.Healthylifestyle.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="ToolBarStyle" parent="Theme.AppCompat">
+        <item name="android:textColorPrimary">@android:color/black</item>
+        <item name="android:textColorSecondary">@android:color/white</item>
+        <item name="actionMenuTextColor">@android:color/white</item>
+    </style>
+</resources>

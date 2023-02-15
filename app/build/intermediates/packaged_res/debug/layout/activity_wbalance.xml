@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".water.WbalanceActivity"
+    android:background="@drawable/icon">
+
+    <TextView
+        android:id="@+id/weight"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginTop="@dimen/small_margin"
+        android:layout_marginStart="@dimen/large_margin"
+        android:padding="@dimen/small_margin"
+        android:text="@string/weight2"
+        style="@style/TextBaseStyle" />
+
+    <androidx.appcompat.widget.AppCompatEditText
+        android:id="@+id/weight_input"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toTopOf="@id/weight"
+        app:layout_constraintStart_toEndOf="@id/weight"
+        android:ems="5"
+        android:hint="@string/kg"
+        android:inputType="number"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textColorHint="@color/texthint"
+        android:textSize="30sp"
+        android:autofillHints="" />
+
+    <androidx.appcompat.widget.AppCompatSpinner
+        android:id="@+id/activity"
+        android:layout_width="170dp"
+        android:layout_height="48dp"
+        app:layout_constraintTop_toBottomOf="@id/weight"
+        app:layout_constraintStart_toStartOf="@id/weight"
+        android:layout_marginTop="@dimen/large_margin"
+        android:entries="@array/activity_water_balance"
+        android:textColor="@color/black"
+        android:scrollbarSize="5dp"/>
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/activity"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginHorizontal="@dimen/small_margin"
+        android:layout_marginTop="@dimen/small_margin"
+        android:textAlignment="center"
+        android:text="Ваша дневная норма воды составляет:"
+        style="@style/TextBaseStyle" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/needed_water"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/TextBaseStyle"
+        android:text="3000 мл"
+        app:layout_constraintTop_toBottomOf="@id/info"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginHorizontal="@dimen/small_margin"
+        android:layout_marginTop="@dimen/small_margin"
+        android:textAlignment="center" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/water_count"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/TextBaseStyle"
+        android:text="Выпито: 1600 bp 3000мл"
+        app:layout_constraintTop_toBottomOf="@id/needed_water"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginHorizontal="@dimen/small_margin"
+        android:layout_marginTop="@dimen/small_margin"
+        android:textAlignment="center" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/count"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/water_count"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:text="Рассчитать"
+        android:textAllCaps="false"
+        android:textSize="@dimen/medium_text"
+        android:background="@drawable/round_back"
+        android:layout_margin="@dimen/large_margin" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/drink_glass"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/count"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:text="Выпить стакан"
+        android:textAllCaps="false"
+        android:textSize="@dimen/medium_text"
+        android:background="@drawable/round_back"
+        android:layout_marginTop="@dimen/medium_margin"
+        android:layout_marginHorizontal="@dimen/large_margin" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

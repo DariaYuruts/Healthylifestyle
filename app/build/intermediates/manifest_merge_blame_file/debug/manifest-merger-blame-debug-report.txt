@@ -1,0 +1,432 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.healthylifestyle"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="28"
+8-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Дарья\.gradle\caches\transforms-3\f7b8e99439700b582d5960feb48c6ea0\transformed\firebase-auth-21.1.0\AndroidManifest.xml:23:5-67
+11-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Дарья\.gradle\caches\transforms-3\f7b8e99439700b582d5960feb48c6ea0\transformed\firebase-auth-21.1.0\AndroidManifest.xml:23:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Дарья\.gradle\caches\transforms-3\f7b8e99439700b582d5960feb48c6ea0\transformed\firebase-auth-21.1.0\AndroidManifest.xml:24:5-79
+12-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Дарья\.gradle\caches\transforms-3\f7b8e99439700b582d5960feb48c6ea0\transformed\firebase-auth-21.1.0\AndroidManifest.xml:24:22-76
+13    <uses-permission android:name="android.permission.WAKE_LOCK" />
+13-->[com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\Дарья\.gradle\caches\transforms-3\a5a77a0d5fbd11eeab680b58c5dceaac\transformed\play-services-measurement-api-21.2.0\AndroidManifest.xml:24:5-68
+13-->[com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\Дарья\.gradle\caches\transforms-3\a5a77a0d5fbd11eeab680b58c5dceaac\transformed\play-services-measurement-api-21.2.0\AndroidManifest.xml:24:22-65
+14    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+14-->[com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\Дарья\.gradle\caches\transforms-3\a5a77a0d5fbd11eeab680b58c5dceaac\transformed\play-services-measurement-api-21.2.0\AndroidManifest.xml:25:5-79
+14-->[com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\Дарья\.gradle\caches\transforms-3\a5a77a0d5fbd11eeab680b58c5dceaac\transformed\play-services-measurement-api-21.2.0\AndroidManifest.xml:25:22-76
+15    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+15-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Дарья\.gradle\caches\transforms-3\b61599b38362350bcea4c7ccc8c65b35\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:26:5-110
+15-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Дарья\.gradle\caches\transforms-3\b61599b38362350bcea4c7ccc8c65b35\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:26:22-107
+16
+17    <permission
+17-->[androidx.core:core:1.9.0] C:\Users\Дарья\.gradle\caches\transforms-3\f7d63d9ee3c64ce19a993b5568c6118d\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+18        android:name="com.example.healthylifestyle.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+18-->[androidx.core:core:1.9.0] C:\Users\Дарья\.gradle\caches\transforms-3\f7d63d9ee3c64ce19a993b5568c6118d\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+19        android:protectionLevel="signature" />
+19-->[androidx.core:core:1.9.0] C:\Users\Дарья\.gradle\caches\transforms-3\f7d63d9ee3c64ce19a993b5568c6118d\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+20
+21    <uses-permission android:name="com.example.healthylifestyle.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+21-->[androidx.core:core:1.9.0] C:\Users\Дарья\.gradle\caches\transforms-3\f7d63d9ee3c64ce19a993b5568c6118d\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+21-->[androidx.core:core:1.9.0] C:\Users\Дарья\.gradle\caches\transforms-3\f7d63d9ee3c64ce19a993b5568c6118d\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+22
+23    <application
+23-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:5:5-110:19
+24        android:allowBackup="true"
+24-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:6:9-35
+25        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+25-->[androidx.core:core:1.9.0] C:\Users\Дарья\.gradle\caches\transforms-3\f7d63d9ee3c64ce19a993b5568c6118d\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+26        android:dataExtractionRules="@xml/data_extraction_rules"
+26-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:7:9-65
+27        android:debuggable="true"
+28        android:extractNativeLibs="false"
+29        android:fullBackupContent="@xml/backup_rules"
+29-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:8:9-54
+30        android:icon="@mipmap/ic_launcher"
+30-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:9:9-43
+31        android:label="@string/app_name"
+31-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:10:9-41
+32        android:supportsRtl="true"
+32-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:11:9-35
+33        android:testOnly="true"
+34        android:theme="@style/Theme.Healthylifestyle" >
+34-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:12:9-54
+35        <activity
+35-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:14:9-20:20
+36            android:name="com.example.healthylifestyle.ProgramActivity"
+36-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:15:13-44
+37            android:exported="false" >
+37-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:16:13-37
+38            <meta-data
+38-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:17:13-19:36
+39                android:name="android.app.lib_name"
+39-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:18:17-52
+40                android:value="" />
+40-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:19:17-33
+41        </activity>
+42        <activity
+42-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:21:9-27:20
+43            android:name="com.example.healthylifestyle.NutritionExampleActivity"
+43-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:22:13-53
+44            android:exported="false" >
+44-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:23:13-37
+45            <meta-data
+45-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:17:13-19:36
+46                android:name="android.app.lib_name"
+46-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:18:17-52
+47                android:value="" />
+47-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:19:17-33
+48        </activity>
+49        <activity
+49-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:28:9-34:20
+50            android:name="com.example.healthylifestyle.NutritionDialogActivity2"
+50-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:29:13-53
+51            android:exported="false" >
+51-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:30:13-37
+52            <meta-data
+52-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:17:13-19:36
+53                android:name="android.app.lib_name"
+53-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:18:17-52
+54                android:value="" />
+54-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:19:17-33
+55        </activity>
+56        <activity
+56-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:35:9-41:20
+57            android:name="com.example.healthylifestyle.NutritionDialogActivity1"
+57-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:36:13-53
+58            android:exported="false" >
+58-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:37:13-37
+59            <meta-data
+59-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:17:13-19:36
+60                android:name="android.app.lib_name"
+60-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:18:17-52
+61                android:value="" />
+61-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:19:17-33
+62        </activity>
+63        <activity
+63-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:42:9-48:20
+64            android:name="com.example.healthylifestyle.SportsActivity"
+64-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:43:13-43
+65            android:exported="false" >
+65-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:44:13-37
+66            <meta-data
+66-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:17:13-19:36
+67                android:name="android.app.lib_name"
+67-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:18:17-52
+68                android:value="" />
+68-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:19:17-33
+69        </activity>
+70        <activity
+70-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:49:9-55:20
+71            android:name="com.example.healthylifestyle.NutritionActivity"
+71-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:50:13-46
+72            android:exported="false" >
+72-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:51:13-37
+73            <meta-data
+73-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:17:13-19:36
+74                android:name="android.app.lib_name"
+74-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:18:17-52
+75                android:value="" />
+75-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:19:17-33
+76        </activity>
+77        <activity
+77-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:56:9-58:40
+78            android:name="com.example.healthylifestyle.Dialog10"
+78-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:57:13-37
+79            android:exported="false" />
+79-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:58:13-37
+80        <activity
+80-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:59:9-61:40
+81            android:name="com.example.healthylifestyle.Dialog9"
+81-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:60:13-36
+82            android:exported="false" />
+82-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:61:13-37
+83        <activity
+83-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:62:9-64:40
+84            android:name="com.example.healthylifestyle.Dialog8"
+84-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:63:13-36
+85            android:exported="false" />
+85-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:64:13-37
+86        <activity
+86-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:65:9-67:40
+87            android:name="com.example.healthylifestyle.Dialog7"
+87-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:66:13-36
+88            android:exported="false" />
+88-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:67:13-37
+89        <activity
+89-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:68:9-70:40
+90            android:name="com.example.healthylifestyle.Dialog6"
+90-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:69:13-36
+91            android:exported="false" />
+91-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:70:13-37
+92        <activity
+92-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:71:9-73:40
+93            android:name="com.example.healthylifestyle.Dialog5"
+93-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:72:13-36
+94            android:exported="false" />
+94-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:73:13-37
+95        <activity
+95-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:74:9-76:40
+96            android:name="com.example.healthylifestyle.Dialog4"
+96-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:75:13-36
+97            android:exported="false" />
+97-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:76:13-37
+98        <activity
+98-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:77:9-79:40
+99            android:name="com.example.healthylifestyle.Dialog3"
+99-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:78:13-36
+100            android:exported="false" />
+100-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:79:13-37
+101        <activity
+101-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:80:9-82:40
+102            android:name="com.example.healthylifestyle.Dialog2"
+102-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:81:13-36
+103            android:exported="false" />
+103-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:82:13-37
+104        <activity
+104-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:83:9-85:40
+105            android:name="com.example.healthylifestyle.Dialog1"
+105-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:84:13-36
+106            android:exported="false" />
+106-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:85:13-37
+107        <activity
+107-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:86:9-88:40
+108            android:name="com.example.healthylifestyle.water.WbalanceActivity"
+108-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:87:13-51
+109            android:exported="false" />
+109-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:88:13-37
+110        <activity
+110-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:89:9-91:40
+111            android:name="com.example.healthylifestyle.RecommendActivity"
+111-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:90:13-46
+112            android:exported="false" />
+112-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:91:13-37
+113        <activity
+113-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:92:9-94:40
+114            android:name="com.example.healthylifestyle.NutritionAndSportsActivity"
+114-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:93:13-55
+115            android:exported="false" />
+115-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:94:13-37
+116        <activity
+116-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:95:9-97:40
+117            android:name="com.example.healthylifestyle.CalcActivity"
+117-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:96:13-41
+118            android:exported="false" />
+118-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:97:13-37
+119        <activity
+119-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:98:9-100:40
+120            android:name="com.example.healthylifestyle.SecondActivity"
+120-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:99:13-43
+121            android:exported="false" />
+121-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:100:13-37
+122        <activity
+122-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:101:9-109:20
+123            android:name="com.example.healthylifestyle.MainActivity"
+123-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:102:13-41
+124            android:exported="true" >
+124-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:103:13-36
+125            <intent-filter>
+125-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:104:13-108:29
+126                <action android:name="android.intent.action.MAIN" />
+126-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:105:17-69
+126-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:105:25-66
+127
+128                <category android:name="android.intent.category.LAUNCHER" />
+128-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:107:17-77
+128-->C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\main\AndroidManifest.xml:107:27-74
+129            </intent-filter>
+130        </activity>
+131        <activity
+131-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Дарья\.gradle\caches\transforms-3\f7b8e99439700b582d5960feb48c6ea0\transformed\firebase-auth-21.1.0\AndroidManifest.xml:27:9-44:20
+132            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+132-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Дарья\.gradle\caches\transforms-3\f7b8e99439700b582d5960feb48c6ea0\transformed\firebase-auth-21.1.0\AndroidManifest.xml:28:13-80
+133            android:excludeFromRecents="true"
+133-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Дарья\.gradle\caches\transforms-3\f7b8e99439700b582d5960feb48c6ea0\transformed\firebase-auth-21.1.0\AndroidManifest.xml:29:13-46
+134            android:exported="true"
+134-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Дарья\.gradle\caches\transforms-3\f7b8e99439700b582d5960feb48c6ea0\transformed\firebase-auth-21.1.0\AndroidManifest.xml:30:13-36
+135            android:launchMode="singleTask"
+135-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Дарья\.gradle\caches\transforms-3\f7b8e99439700b582d5960feb48c6ea0\transformed\firebase-auth-21.1.0\AndroidManifest.xml:31:13-44
+136            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+136-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Дарья\.gradle\caches\transforms-3\f7b8e99439700b582d5960feb48c6ea0\transformed\firebase-auth-21.1.0\AndroidManifest.xml:32:13-72
+137            <intent-filter>
+137-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Дарья\.gradle\caches\transforms-3\f7b8e99439700b582d5960feb48c6ea0\transformed\firebase-auth-21.1.0\AndroidManifest.xml:33:13-43:29
+138                <action android:name="android.intent.action.VIEW" />
+138-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Дарья\.gradle\caches\transforms-3\f7b8e99439700b582d5960feb48c6ea0\transformed\firebase-auth-21.1.0\AndroidManifest.xml:34:17-69
+138-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Дарья\.gradle\caches\transforms-3\f7b8e99439700b582d5960feb48c6ea0\transformed\firebase-auth-21.1.0\AndroidManifest.xml:34:25-66
+139
+140                <category android:name="android.intent.category.DEFAULT" />
+140-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Дарья\.gradle\caches\transforms-3\f7b8e99439700b582d5960feb48c6ea0\transformed\firebase-auth-21.1.0\AndroidManifest.xml:36:17-76
+140-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Дарья\.gradle\caches\transforms-3\f7b8e99439700b582d5960feb48c6ea0\transformed\firebase-auth-21.1.0\AndroidManifest.xml:36:27-73
+141                <category android:name="android.intent.category.BROWSABLE" />
+141-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Дарья\.gradle\caches\transforms-3\f7b8e99439700b582d5960feb48c6ea0\transformed\firebase-auth-21.1.0\AndroidManifest.xml:37:17-78
+141-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Дарья\.gradle\caches\transforms-3\f7b8e99439700b582d5960feb48c6ea0\transformed\firebase-auth-21.1.0\AndroidManifest.xml:37:27-75
+142
+143                <data
+143-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Дарья\.gradle\caches\transforms-3\f7b8e99439700b582d5960feb48c6ea0\transformed\firebase-auth-21.1.0\AndroidManifest.xml:39:17-42:51
+144                    android:host="firebase.auth"
+144-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Дарья\.gradle\caches\transforms-3\f7b8e99439700b582d5960feb48c6ea0\transformed\firebase-auth-21.1.0\AndroidManifest.xml:40:21-49
+145                    android:path="/"
+145-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Дарья\.gradle\caches\transforms-3\f7b8e99439700b582d5960feb48c6ea0\transformed\firebase-auth-21.1.0\AndroidManifest.xml:41:21-37
+146                    android:scheme="genericidp" />
+146-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Дарья\.gradle\caches\transforms-3\f7b8e99439700b582d5960feb48c6ea0\transformed\firebase-auth-21.1.0\AndroidManifest.xml:42:21-48
+147            </intent-filter>
+148        </activity>
+149        <activity
+149-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Дарья\.gradle\caches\transforms-3\f7b8e99439700b582d5960feb48c6ea0\transformed\firebase-auth-21.1.0\AndroidManifest.xml:45:9-62:20
+150            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+150-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Дарья\.gradle\caches\transforms-3\f7b8e99439700b582d5960feb48c6ea0\transformed\firebase-auth-21.1.0\AndroidManifest.xml:46:13-79
+151            android:excludeFromRecents="true"
+151-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Дарья\.gradle\caches\transforms-3\f7b8e99439700b582d5960feb48c6ea0\transformed\firebase-auth-21.1.0\AndroidManifest.xml:47:13-46
+152            android:exported="true"
+152-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Дарья\.gradle\caches\transforms-3\f7b8e99439700b582d5960feb48c6ea0\transformed\firebase-auth-21.1.0\AndroidManifest.xml:48:13-36
+153            android:launchMode="singleTask"
+153-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Дарья\.gradle\caches\transforms-3\f7b8e99439700b582d5960feb48c6ea0\transformed\firebase-auth-21.1.0\AndroidManifest.xml:49:13-44
+154            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+154-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Дарья\.gradle\caches\transforms-3\f7b8e99439700b582d5960feb48c6ea0\transformed\firebase-auth-21.1.0\AndroidManifest.xml:50:13-72
+155            <intent-filter>
+155-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Дарья\.gradle\caches\transforms-3\f7b8e99439700b582d5960feb48c6ea0\transformed\firebase-auth-21.1.0\AndroidManifest.xml:51:13-61:29
+156                <action android:name="android.intent.action.VIEW" />
+156-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Дарья\.gradle\caches\transforms-3\f7b8e99439700b582d5960feb48c6ea0\transformed\firebase-auth-21.1.0\AndroidManifest.xml:34:17-69
+156-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Дарья\.gradle\caches\transforms-3\f7b8e99439700b582d5960feb48c6ea0\transformed\firebase-auth-21.1.0\AndroidManifest.xml:34:25-66
+157
+158                <category android:name="android.intent.category.DEFAULT" />
+158-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Дарья\.gradle\caches\transforms-3\f7b8e99439700b582d5960feb48c6ea0\transformed\firebase-auth-21.1.0\AndroidManifest.xml:36:17-76
+158-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Дарья\.gradle\caches\transforms-3\f7b8e99439700b582d5960feb48c6ea0\transformed\firebase-auth-21.1.0\AndroidManifest.xml:36:27-73
+159                <category android:name="android.intent.category.BROWSABLE" />
+159-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Дарья\.gradle\caches\transforms-3\f7b8e99439700b582d5960feb48c6ea0\transformed\firebase-auth-21.1.0\AndroidManifest.xml:37:17-78
+159-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Дарья\.gradle\caches\transforms-3\f7b8e99439700b582d5960feb48c6ea0\transformed\firebase-auth-21.1.0\AndroidManifest.xml:37:27-75
+160
+161                <data
+161-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Дарья\.gradle\caches\transforms-3\f7b8e99439700b582d5960feb48c6ea0\transformed\firebase-auth-21.1.0\AndroidManifest.xml:39:17-42:51
+162                    android:host="firebase.auth"
+162-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Дарья\.gradle\caches\transforms-3\f7b8e99439700b582d5960feb48c6ea0\transformed\firebase-auth-21.1.0\AndroidManifest.xml:40:21-49
+163                    android:path="/"
+163-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Дарья\.gradle\caches\transforms-3\f7b8e99439700b582d5960feb48c6ea0\transformed\firebase-auth-21.1.0\AndroidManifest.xml:41:21-37
+164                    android:scheme="recaptcha" />
+164-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Дарья\.gradle\caches\transforms-3\f7b8e99439700b582d5960feb48c6ea0\transformed\firebase-auth-21.1.0\AndroidManifest.xml:42:21-48
+165            </intent-filter>
+166        </activity>
+167
+168        <service
+168-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Дарья\.gradle\caches\transforms-3\f7b8e99439700b582d5960feb48c6ea0\transformed\firebase-auth-21.1.0\AndroidManifest.xml:64:9-70:19
+169            android:name="com.google.firebase.components.ComponentDiscoveryService"
+169-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Дарья\.gradle\caches\transforms-3\f7b8e99439700b582d5960feb48c6ea0\transformed\firebase-auth-21.1.0\AndroidManifest.xml:65:13-84
+170            android:directBootAware="true"
+170-->[com.google.firebase:firebase-common:20.3.0] C:\Users\Дарья\.gradle\caches\transforms-3\d89f8baa636ef17214ab25342bdd7fc2\transformed\firebase-common-20.3.0\AndroidManifest.xml:34:13-43
+171            android:exported="false" >
+171-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Дарья\.gradle\caches\transforms-3\f7b8e99439700b582d5960feb48c6ea0\transformed\firebase-auth-21.1.0\AndroidManifest.xml:66:13-37
+172            <meta-data
+172-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Дарья\.gradle\caches\transforms-3\f7b8e99439700b582d5960feb48c6ea0\transformed\firebase-auth-21.1.0\AndroidManifest.xml:67:13-69:85
+173                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+173-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Дарья\.gradle\caches\transforms-3\f7b8e99439700b582d5960feb48c6ea0\transformed\firebase-auth-21.1.0\AndroidManifest.xml:68:17-109
+174                android:value="com.google.firebase.components.ComponentRegistrar" />
+174-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\Дарья\.gradle\caches\transforms-3\f7b8e99439700b582d5960feb48c6ea0\transformed\firebase-auth-21.1.0\AndroidManifest.xml:69:17-82
+175            <meta-data
+175-->[com.google.firebase:firebase-database:20.1.0] C:\Users\Дарья\.gradle\caches\transforms-3\529c4aafa8f8711c493cb1ad0cc2bf74\transformed\firebase-database-20.1.0\AndroidManifest.xml:31:13-33:85
+176                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+176-->[com.google.firebase:firebase-database:20.1.0] C:\Users\Дарья\.gradle\caches\transforms-3\529c4aafa8f8711c493cb1ad0cc2bf74\transformed\firebase-database-20.1.0\AndroidManifest.xml:32:17-109
+177                android:value="com.google.firebase.components.ComponentRegistrar" />
+177-->[com.google.firebase:firebase-database:20.1.0] C:\Users\Дарья\.gradle\caches\transforms-3\529c4aafa8f8711c493cb1ad0cc2bf74\transformed\firebase-database-20.1.0\AndroidManifest.xml:33:17-82
+178            <meta-data
+178-->[com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\Дарья\.gradle\caches\transforms-3\a5a77a0d5fbd11eeab680b58c5dceaac\transformed\play-services-measurement-api-21.2.0\AndroidManifest.xml:31:13-33:85
+179                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+179-->[com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\Дарья\.gradle\caches\transforms-3\a5a77a0d5fbd11eeab680b58c5dceaac\transformed\play-services-measurement-api-21.2.0\AndroidManifest.xml:32:17-139
+180                android:value="com.google.firebase.components.ComponentRegistrar" />
+180-->[com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\Дарья\.gradle\caches\transforms-3\a5a77a0d5fbd11eeab680b58c5dceaac\transformed\play-services-measurement-api-21.2.0\AndroidManifest.xml:33:17-82
+181            <meta-data
+181-->[com.google.firebase:firebase-installations:17.1.0] C:\Users\Дарья\.gradle\caches\transforms-3\e3b498a67ab14569328ba42bfa46a885\transformed\firebase-installations-17.1.0\AndroidManifest.xml:17:13-19:85
+182                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+182-->[com.google.firebase:firebase-installations:17.1.0] C:\Users\Дарья\.gradle\caches\transforms-3\e3b498a67ab14569328ba42bfa46a885\transformed\firebase-installations-17.1.0\AndroidManifest.xml:18:17-127
+183                android:value="com.google.firebase.components.ComponentRegistrar" />
+183-->[com.google.firebase:firebase-installations:17.1.0] C:\Users\Дарья\.gradle\caches\transforms-3\e3b498a67ab14569328ba42bfa46a885\transformed\firebase-installations-17.1.0\AndroidManifest.xml:19:17-82
+184        </service>
+185
+186        <provider
+186-->[com.google.firebase:firebase-common:20.3.0] C:\Users\Дарья\.gradle\caches\transforms-3\d89f8baa636ef17214ab25342bdd7fc2\transformed\firebase-common-20.3.0\AndroidManifest.xml:25:9-30:39
+187            android:name="com.google.firebase.provider.FirebaseInitProvider"
+187-->[com.google.firebase:firebase-common:20.3.0] C:\Users\Дарья\.gradle\caches\transforms-3\d89f8baa636ef17214ab25342bdd7fc2\transformed\firebase-common-20.3.0\AndroidManifest.xml:26:13-77
+188            android:authorities="com.example.healthylifestyle.firebaseinitprovider"
+188-->[com.google.firebase:firebase-common:20.3.0] C:\Users\Дарья\.gradle\caches\transforms-3\d89f8baa636ef17214ab25342bdd7fc2\transformed\firebase-common-20.3.0\AndroidManifest.xml:27:13-72
+189            android:directBootAware="true"
+189-->[com.google.firebase:firebase-common:20.3.0] C:\Users\Дарья\.gradle\caches\transforms-3\d89f8baa636ef17214ab25342bdd7fc2\transformed\firebase-common-20.3.0\AndroidManifest.xml:28:13-43
+190            android:exported="false"
+190-->[com.google.firebase:firebase-common:20.3.0] C:\Users\Дарья\.gradle\caches\transforms-3\d89f8baa636ef17214ab25342bdd7fc2\transformed\firebase-common-20.3.0\AndroidManifest.xml:29:13-37
+191            android:initOrder="100" />
+191-->[com.google.firebase:firebase-common:20.3.0] C:\Users\Дарья\.gradle\caches\transforms-3\d89f8baa636ef17214ab25342bdd7fc2\transformed\firebase-common-20.3.0\AndroidManifest.xml:30:13-36
+192
+193        <receiver
+193-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Дарья\.gradle\caches\transforms-3\b61599b38362350bcea4c7ccc8c65b35\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:29:9-33:20
+194            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+194-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Дарья\.gradle\caches\transforms-3\b61599b38362350bcea4c7ccc8c65b35\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:30:13-85
+195            android:enabled="true"
+195-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Дарья\.gradle\caches\transforms-3\b61599b38362350bcea4c7ccc8c65b35\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:31:13-35
+196            android:exported="false" >
+196-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Дарья\.gradle\caches\transforms-3\b61599b38362350bcea4c7ccc8c65b35\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:32:13-37
+197        </receiver>
+198
+199        <service
+199-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Дарья\.gradle\caches\transforms-3\b61599b38362350bcea4c7ccc8c65b35\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:35:9-38:40
+200            android:name="com.google.android.gms.measurement.AppMeasurementService"
+200-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Дарья\.gradle\caches\transforms-3\b61599b38362350bcea4c7ccc8c65b35\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:36:13-84
+201            android:enabled="true"
+201-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Дарья\.gradle\caches\transforms-3\b61599b38362350bcea4c7ccc8c65b35\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:37:13-35
+202            android:exported="false" />
+202-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Дарья\.gradle\caches\transforms-3\b61599b38362350bcea4c7ccc8c65b35\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:38:13-37
+203        <service
+203-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Дарья\.gradle\caches\transforms-3\b61599b38362350bcea4c7ccc8c65b35\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:39:9-43:72
+204            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+204-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Дарья\.gradle\caches\transforms-3\b61599b38362350bcea4c7ccc8c65b35\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:40:13-87
+205            android:enabled="true"
+205-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Дарья\.gradle\caches\transforms-3\b61599b38362350bcea4c7ccc8c65b35\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:41:13-35
+206            android:exported="false"
+206-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Дарья\.gradle\caches\transforms-3\b61599b38362350bcea4c7ccc8c65b35\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:42:13-37
+207            android:permission="android.permission.BIND_JOB_SERVICE" />
+207-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Дарья\.gradle\caches\transforms-3\b61599b38362350bcea4c7ccc8c65b35\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:43:13-69
+208
+209        <activity
+209-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Дарья\.gradle\caches\transforms-3\dc66b543deff7fd1960bcb041a60642d\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+210            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+210-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Дарья\.gradle\caches\transforms-3\dc66b543deff7fd1960bcb041a60642d\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+211            android:exported="false"
+211-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Дарья\.gradle\caches\transforms-3\dc66b543deff7fd1960bcb041a60642d\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+212            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+212-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Дарья\.gradle\caches\transforms-3\dc66b543deff7fd1960bcb041a60642d\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+213
+214        <meta-data
+214-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Дарья\.gradle\caches\transforms-3\66674857273a99da9b81a0be9de94004\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+215            android:name="com.google.android.gms.version"
+215-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Дарья\.gradle\caches\transforms-3\66674857273a99da9b81a0be9de94004\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+216            android:value="@integer/google_play_services_version" />
+216-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Дарья\.gradle\caches\transforms-3\66674857273a99da9b81a0be9de94004\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+217
+218        <provider
+218-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Дарья\.gradle\caches\transforms-3\11c1ab28a9c937f8161c20acfaa70bd9\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+219            android:name="androidx.startup.InitializationProvider"
+219-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Дарья\.gradle\caches\transforms-3\11c1ab28a9c937f8161c20acfaa70bd9\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+220            android:authorities="com.example.healthylifestyle.androidx-startup"
+220-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Дарья\.gradle\caches\transforms-3\11c1ab28a9c937f8161c20acfaa70bd9\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+221            android:exported="false" >
+221-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Дарья\.gradle\caches\transforms-3\11c1ab28a9c937f8161c20acfaa70bd9\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+222            <meta-data
+222-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Дарья\.gradle\caches\transforms-3\11c1ab28a9c937f8161c20acfaa70bd9\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+223                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+223-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Дарья\.gradle\caches\transforms-3\11c1ab28a9c937f8161c20acfaa70bd9\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+224                android:value="androidx.startup" />
+224-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Дарья\.gradle\caches\transforms-3\11c1ab28a9c937f8161c20acfaa70bd9\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+225            <meta-data
+225-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Дарья\.gradle\caches\transforms-3\25b74c2a9247580f4338e51efe5fa91e\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+226                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+226-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Дарья\.gradle\caches\transforms-3\25b74c2a9247580f4338e51efe5fa91e\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+227                android:value="androidx.startup" />
+227-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Дарья\.gradle\caches\transforms-3\25b74c2a9247580f4338e51efe5fa91e\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+228        </provider>
+229    </application>
+230
+231</manifest>

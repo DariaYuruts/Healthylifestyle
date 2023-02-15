@@ -1,0 +1,9 @@
+com.example.healthylifestyle.test.app-androidTest-0 C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\build\generated\res\resValues\androidTest\debug
+com.example.healthylifestyle.test.app-androidTest-1 C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\build\generated\res\rs\androidTest\debug
+com.example.healthylifestyle.test.app-mergeDebugAndroidTestResources-2 C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.healthylifestyle.test.app-mergeDebugAndroidTestResources-3 C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.healthylifestyle.test.app-merged_res-4 C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\build\intermediates\merged_res\debugAndroidTest
+com.example.healthylifestyle.test.app-androidTest-5 C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\androidTest\res
+com.example.healthylifestyle.test.app-androidTestDebug-6 C:\Android_Studio\Healthylifestyle3\Healthylifestyle3\Healthylifestyle\app\src\androidTestDebug\res
+com.example.healthylifestyle.test.app-annotation-experimental-1.3.0-7 C:\Users\Дарья\.gradle\caches\transforms-3\7b31f443b3b2dcf860704c97e074539b\transformed\annotation-experimental-1.3.0\res
+com.example.healthylifestyle.test.app-core-1.5.0-8 C:\Users\Дарья\.gradle\caches\transforms-3\bda8d7587c62f92f03f036ca0b913a88\transformed\core-1.5.0\res
